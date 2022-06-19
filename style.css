@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+
+.primaryfont{
+	font-family: Pacifico;
+}
+body{
+	font-family:;
+}
+.Poppins{
+	font-family: Poppins;
+}
+.Pacifico{
+	font-family: Pacifico;
+}
+.bg-banner{
+	background: url("image/banner.webp");
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-height: 500px;
+}
+.bg-w{
+	min-height: 450px;
+}
+/*
+.btn1{
+	width:100px;
+}
+*/
+.brdr-btm{
+	border-bottom: 3px solid rgba(255,0,4,1.00);
+	width: 120px; 
+}
+.brdr-btm1{
+	border-bottom: 1px solid rgba(0,0,0,1.00);
+	width: 30px; 
+}
+.col-md1{
+	width: 30%;
+}
+.img-w{
+/*	width: 160px;*/
+	height: 110px
+}
+.text-size{
+	font-size: 12px
+}
+
+.bg1{
+	background: #FB4143;
+}
+.bg2{
+	background: #3E5A6F;
+}
+.bg3{
+	background: #1852A9;
+}
+.bg4{
+	background: #32A9EE;
+}
+.bg5{
+	background: #23D4F9;
+}
+.bg6{
+	background: #FEAB03;
+}
+.bg7{
+	background: #EC3A74;
+}
+.bg8{
+	background: #FA4244;
+}
+.w-h{
+/*width:135px;*/
+height: 135px;
+}
