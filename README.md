@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Sahil from Rajasthan<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning MERN<br>- ⚡ In my free time I learn React/Angular</p>
+<p align="left">I'm Sahil from Rajasthan<br><br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning MERN<br>- ⚡ In my free time I learn Mongodb</p>
 
 ###
 
